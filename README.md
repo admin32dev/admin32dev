@@ -18,7 +18,7 @@
 
 - :zap: В свободное время я решаю задачи на CodeWars и читаю технические статьи.
 
-- :mailbox: Как до меня докопаться? : [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mihail_wynneink) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://t.me/mihail_wynneink)
+- :mailbox: Как до меня докопаться? : [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mihail_wynneink) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](admiistrator55@gmail.com)
 
 ---
 
