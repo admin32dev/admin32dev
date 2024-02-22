@@ -12,7 +12,7 @@
 ---
 
 ### :woman_technologist: Обо мне :
-Я Java-разработчик из России. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Я Java-разработчик из России. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 :seedling: - Изучение и погружение в Java. Ориентирование в Forge API.
 
