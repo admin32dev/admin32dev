@@ -13,9 +13,8 @@
 
 ### :woman_technologist: Обо мне :
 Я Java-разработчик из России. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: ааа
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Изучение и погружение в Java. Ориентирование в Forge API.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
