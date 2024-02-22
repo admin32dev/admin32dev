@@ -18,7 +18,7 @@
 
 - :zap: В свободное время я решаю задачи на CodeWars и читаю технические статьи.
 
-- :mailbox: Как до меня докопаться? : [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Как до меня докопаться? : [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](your-linkedin-url)
 
 ---
 
