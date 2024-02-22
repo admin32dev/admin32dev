@@ -33,6 +33,7 @@
   <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" title="Spring Security" alt="Spring Security" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/1492367?s=400&v=4" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/jquery-original-icon-256x247-abkbtq8l.png" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/R.e3ea51dbe8c20547b6633bac6f7daf03?rik=l1XoDjjflWjmfg&pid=ImgRaw&r=0" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
 </div>
 
 ---
