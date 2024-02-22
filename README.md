@@ -35,7 +35,7 @@
   <img src="https://static-00.iconduck.com/assets.00/jquery-original-icon-256x247-abkbtq8l.png" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/R.e3ea51dbe8c20547b6633bac6f7daf03?rik=l1XoDjjflWjmfg&pid=ImgRaw&r=0" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/R.a0b5d3476a532587a9d84469108c3438?rik=DyKsYlC0P31nbQ&pid=ImgRaw&r=0&sres=1&sresct=1" title="Lombok" alt="Lombok" width="40" height="40"/>&nbsp;
-    <img src="https://th.bing.com/th/id/OIP.md0kAUnwK14yoKxtToe4wwHaEH?rs=1&pid=ImgDetMain" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
+    <img src="https://w7.pngwing.com/pngs/928/911/png-transparent-junit-software-testing-spring-framework-unit-testing-java-others-miscellaneous-text-trademark-thumbnail.png" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
 </div>
 
 ---
