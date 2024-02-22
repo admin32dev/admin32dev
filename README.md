@@ -29,7 +29,7 @@
   <img src="https://github.com/admin32dev/admin32dev/blob/main/68747470733a2f2f74682e62696e672e636f6d2f74682f6964%20(1).png?raw=true" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/R.ca9a7de66760b4959e2374f6f953216b?rik=8KgPmIotxMl7zw&riu=http%3a%2f%2fwww.t2ti.com%2fimages%2fsiscom-spring%2fspring-data.png&ehk=rj%2bO7Ah63D1FiIeNdhFfdJMUTG5KICqxNleB4asRARY%3d&risl=&pid=ImgRaw&r=0" title="Spring Boot" alt="Spring JPA" width="40" height="40"/>&nbsp;
   <img src="https://addonwebsolutions.com/wp-content/uploads/2018/11/hibernate.png" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.2GwA1M7gE6Bww75QZFpjGwAAAA?rs=1&pid=ImgDetMain" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/admin32dev/admin32dev/blob/main/68747470733a2f2f74682e62696e672e636f6d2f74682f6964%20(2).png?raw=true" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/OIP.czGDV7iHFw4B4Q_vbvth1QHaHa?rs=1&pid=ImgDetMain" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
   <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" title="Spring Security" alt="Spring Security" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/1492367?s=400&v=4" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/>&nbsp;
