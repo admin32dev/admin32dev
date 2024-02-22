@@ -16,7 +16,7 @@
 
 - :seedling: Изучение и погружение в Java. Ориентирование в Forge API.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свободное время я решаю задачи на CodeWars и читаю технические статьи.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
