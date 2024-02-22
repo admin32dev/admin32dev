@@ -14,11 +14,11 @@
 ### :woman_technologist: Обо мне :
 Я Java-разработчик из России. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :seedling: Изучение и погружение в Java. Ориентирование в Forge API.
+:seedling: - Изучение и погружение в Java. Ориентирование в Forge API.
 
-- :zap: В свободное время я решаю задачи на CodeWars и читаю технические статьи.
+:zap: - В свободное время я решаю задачи на CodeWars и читаю технические статьи.
 
-- :mailbox: Как до меня докопаться? : [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mihail_wynneink) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:admiistrator55@gmail.com)
+:mailbox: - Как до меня докопаться? : [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mihail_wynneink) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:admiistrator55@gmail.com)
 
 ---
 
