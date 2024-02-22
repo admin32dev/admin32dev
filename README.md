@@ -26,6 +26,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/OIP.xwCuWRVvP_J7cA7y3N9lZQHaGp?rs=1&pid=ImgDetMain" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://minkukjo.github.io/assets/img/spring-data-logo.png" title="Spring Boot" alt="Spring JPA" width="40" height="40"/>&nbsp;
 </div>
 
 ---
