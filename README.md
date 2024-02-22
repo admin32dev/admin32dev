@@ -31,6 +31,7 @@
   <img src="https://th.bing.com/th/id/OIP.2GwA1M7gE6Bww75QZFpjGwAAAA?rs=1&pid=ImgDetMain" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/OIP.czGDV7iHFw4B4Q_vbvth1QHaHa?rs=1&pid=ImgDetMain" title="Liquibase" alt="Liquibase" width="40" height="40"/>&nbsp;
   <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" title="Spring Security" alt="Spring Security" width="40" height="40"/>&nbsp;
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f0fb427a476a9f323ac6de7ca836180b/thymeleaf.png" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/>&nbsp;
 </div>
 
 ---
