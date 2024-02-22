@@ -12,7 +12,7 @@
 ---
 
 ### :woman_technologist: Обо мне :
-Я Java-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я Java-разработчик из России. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: ааа
 
 - :seedling: Exploring Technical Content Writing.
